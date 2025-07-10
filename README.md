@@ -1,6 +1,6 @@
 # Project 1: Helium Trailer Operational Efficiency : Linear Regression Analysis 
 
-:large_blue_diamond: Project Objective:     :bulb:
+:large_blue_diamond: Project Objective:     
  - This project performs an in-depth analysis of operational data from a fleet of industrial gas trailers.
  - The primary goal is to understand the physical and operational factors that influence the fill volume of each trailer and to build a predictive 
    model for logistical planning.
