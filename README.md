@@ -1,6 +1,6 @@
 # Project 1: Helium Trailer Operational Efficiency : Linear Regression Analysis 
 
-please generate an image a representative image for the portfolio project, "He_trailer_correlation," reflecting the analysis of helium transport logistics.
+![He_trailer_correlation](https://github.com/user-attachments/assets/41dc8227-3246-49f8-a775-25deca7e1714)
 
 :large_blue_diamond: Project Objective:     
  - This project performs an in-depth analysis of operational data from a fleet of industrial gas trailers.
